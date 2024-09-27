@@ -2,7 +2,7 @@ package org.example;
 
 public class Client {
     public static void main(String[] args) {
-        // Logic for object creation is in PostFactory, thus we just call it, simple & easy!
+        // Logic for object creation is in PostFactory, thus we just call static method, createPost()
         Post newsPost = PostFactory.createPost("news");
         System.out.println(newsPost);
 
