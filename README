@@ -1,0 +1,6 @@
+Simple Factory VS Factory method
+
+Simple Factory method separates object creation logic to Factory (creator) class,
+in other words, Factory class decides which object to instantiate based on simple criteria.
+While Factory method delegates object creation logic to subclasses of creator class, thus those
+subclasses are responsible for deciding which object to instantiate (subclasses provides the actual instance).
