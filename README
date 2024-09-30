@@ -1,6 +1,12 @@
 Simple Factory VS Factory method
-
+<br>
 Simple Factory method separates object creation logic to Factory (creator) class,
 in other words, Factory class decides which object to instantiate based on simple criteria.
 While Factory method delegates object creation logic to subclasses of creator class, thus those
 subclasses are responsible for deciding which object to instantiate (subclasses provides the actual instance).
+<br>
+Prototype
+<br>
+Prototype comes in handy when object creation is costly. It solves problem
+by copying existing object to create new instance but appropriate attributes
+need to be set at the time.
