@@ -1,6 +1,7 @@
-package org.example.instance;
+package org.example.aws;
 
-import org.example.storage.Storage;
+import org.example.Instance;
+import org.example.Storage;
 
 // Represents a concrete product in a family "Amazon web services"
 public class Ec2Instance implements Instance {

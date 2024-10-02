@@ -1,6 +1,8 @@
-package org.example.storage;
+package org.example.gcp;
 
-public class GoogleCloudStorage implements Storage{
+import org.example.Storage;
+
+public class GoogleCloudStorage implements Storage {
 
     public GoogleCloudStorage(int capacityInMib) {
         // Use GCP API
@@ -14,6 +16,6 @@ public class GoogleCloudStorage implements Storage{
 
     @Override
     public String toString() {
-        return super.toString();
+        return "Google Cloud Storage";
     }
 }

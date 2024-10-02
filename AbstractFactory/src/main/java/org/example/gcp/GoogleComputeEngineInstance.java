@@ -1,6 +1,7 @@
-package org.example.instance;
+package org.example.gcp;
 
-import org.example.storage.Storage;
+import org.example.Storage;
+import org.example.Instance;
 
 // Represents a concrete product in a family "Google Cloud Platform"
 public class GoogleComputeEngineInstance implements Instance {

@@ -1,6 +1,4 @@
-package org.example.instance;
-
-import org.example.storage.Storage;
+package org.example;
 
 // Represents an abstract product
 public interface Instance {

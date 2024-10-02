@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/FactoryMethod/pom.xml" />
         <option value="$PROJECT_DIR$/SimpleFactoryMethod/pom.xml" />
         <option value="$PROJECT_DIR$/Prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/AbstractFactory/pom.xml" />
+        <option value="$PROJECT_DIR$/SimpleFactory/pom.xml" />
       </list>
     </option>
   </component>

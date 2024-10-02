@@ -3,7 +3,7 @@ package org.example;
 import org.example.message.Message;
 
 /**
- * This is our abstract "creator".
+ * This is our abstract "creator" (or abstract factory).
  * The abstract method createMessage() has to be implemented by its subclasses.
  */
 public abstract class MessageCreator {
