@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/SimpleFactory/pom.xml" />
         <option value="$PROJECT_DIR$/Singleton/pom.xml" />
         <option value="$PROJECT_DIR$/ObjectPool/pom.xml" />
+        <option value="$PROJECT_DIR$/Adapter/pom.xml" />
       </list>
     </option>
   </component>

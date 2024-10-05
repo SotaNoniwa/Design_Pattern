@@ -10,6 +10,7 @@
         <module name="Singleton" />
         <module name="Builder" />
         <module name="Factory" />
+        <module name="Adapter" />
         <module name="SimpleFactoryPattern" />
         <module name="ObjectPool" />
         <module name="AbstractFactory" />
