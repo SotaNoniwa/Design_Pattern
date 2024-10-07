@@ -1,7 +1,7 @@
 package org.example;
 
 /**
- * An object adapter, using composition to translate interface instead of extending
+ * An object adapter, using composition to translate interface instead of extending adaptee class
  */
 public class EmployeeObjectAdapter implements Customer {
 

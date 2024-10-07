@@ -14,6 +14,7 @@
         <module name="SimpleFactoryPattern" />
         <module name="ObjectPool" />
         <module name="AbstractFactory" />
+        <module name="Bridge" />
       </profile>
     </annotationProcessing>
   </component>
