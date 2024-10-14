@@ -12,14 +12,18 @@
         <module name="Builder" />
         <module name="Factory" />
         <module name="Adapter" />
-        <module name="SimpleFactoryPattern" />
+        <module name="SimpleFactory" />
         <module name="AbstractFactory" />
         <module name="Decorator" />
+        <module name="Proxy" />
         <module name="Flyweight" />
         <module name="Singleton" />
         <module name="ObjectPool" />
         <module name="Bridge" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DesignPattern" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main {
+public class Client {
     public static void main(String[] args) {
         Post post = new Post.Builder()
                 .withTitle("Java Builder Pattern")
