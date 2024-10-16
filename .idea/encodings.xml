@@ -23,6 +23,8 @@
     <file url="file://$PROJECT_DIR$/Factory/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Flyweight/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Flyweight/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Interpreter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Interpreter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ObjectPool/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ObjectPool/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Prototype/src/main/java" charset="UTF-8" />

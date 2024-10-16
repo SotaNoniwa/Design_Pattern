@@ -23,6 +23,7 @@
         <option value="$PROJECT_DIR$/Factory/pom.xml" />
         <option value="$PROJECT_DIR$/ChainOfResponsibility/pom.xml" />
         <option value="$PROJECT_DIR$/Command/pom.xml" />
+        <option value="$PROJECT_DIR$/Interpreter/pom.xml" />
       </list>
     </option>
   </component>
