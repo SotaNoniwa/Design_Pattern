@@ -17,6 +17,7 @@
         <module name="Decorator" />
         <module name="Proxy" />
         <module name="Flyweight" />
+        <module name="Command" />
         <module name="Singleton" />
         <module name="ObjectPool" />
         <module name="ChainOfResponsibility" />
