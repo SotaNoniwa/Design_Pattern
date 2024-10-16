@@ -19,6 +19,7 @@
         <module name="Flyweight" />
         <module name="Singleton" />
         <module name="ObjectPool" />
+        <module name="ChainOfResponsibility" />
         <module name="Bridge" />
       </profile>
     </annotationProcessing>
