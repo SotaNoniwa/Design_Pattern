@@ -2,6 +2,10 @@ package org.example;
 
 import javafx.geometry.Point2D;
 
+/*
+Proxy can provide access control to the target object such as:
+synchronization, authentication, remote access, lazy instantiation
+ */
 public class ImageProxy implements Image {
 
     private BitmapImage image; // Reference to real object (BitmapImage)
