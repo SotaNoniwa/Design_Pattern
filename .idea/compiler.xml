@@ -16,6 +16,7 @@
         <module name="SimpleFactory" />
         <module name="AbstractFactory" />
         <module name="Decorator" />
+        <module name="Memento" />
         <module name="Proxy" />
         <module name="Flyweight" />
         <module name="Command" />
