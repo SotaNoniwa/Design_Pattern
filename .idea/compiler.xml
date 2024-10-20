@@ -15,6 +15,7 @@
         <module name="Adapter" />
         <module name="SimpleFactory" />
         <module name="AbstractFactory" />
+        <module name="Template" />
         <module name="Decorator" />
         <module name="Memento" />
         <module name="Proxy" />
