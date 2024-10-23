@@ -32,6 +32,7 @@
         <option value="$PROJECT_DIR$/Strategy/pom.xml" />
         <option value="$PROJECT_DIR$/Template/pom.xml" />
         <option value="$PROJECT_DIR$/Visitor/pom.xml" />
+        <option value="$PROJECT_DIR$/NullObject/pom.xml" />
       </list>
     </option>
   </component>

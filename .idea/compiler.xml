@@ -21,6 +21,7 @@
         <module name="Interpreter" />
         <module name="Composite" />
         <module name="SimpleFactory" />
+        <module name="NullObject" />
         <module name="AbstractFactory" />
         <module name="Decorator" />
         <module name="Command" />
